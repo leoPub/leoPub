@@ -7,7 +7,7 @@
 - 🌱 My research interest is in three-folds.
     - 📊 Machine Learning (Contextual Reinforcement Learning, Generalization, Transfer Learning),
     - 🚋 Smart Transportation (Mixed Autonomy, Advisory Autonomy, Shared Mobility, Micromobility),
-    - 🛣️ Multi-Vehicle Cooperative Decision Making、
+    - 🛣️ Multi-Vehicle Cooperative Decision Making
 - 👨‍💻 All of my projects are available at [www.hanye.com](https://github.com/leoPub/)
 - 📫 How to reach me
     - E-mail: [hanye_leohancnjs [at] tongji [dot] edu [dot] cn](mailto:hanye_leohancnjs@tongji.edu.cn)
