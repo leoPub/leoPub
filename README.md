@@ -5,8 +5,8 @@
 - 🔭 I am a Ph.D. candidate in Vehicle Engineering at [Tongji University](https://auto.tongji.edu.cn/) under the supervision of [Prof. Lijun Zhang](https://auto.tongji.edu.cn/info/1180/6453.htm). I received BS in Vehicle Engineering from [Beijing Institute of Technology](https://me.bit.edu.cn/).
 
 - 🌱 My research interest is in three-folds.
-    - 📊 Machine Learning (Contextual Reinforcement Learning, Generalization, Transfer Learning),
-    - 🚋 Smart Transportation (Mixed Autonomy, Advisory Autonomy, Shared Mobility, Micromobility),
+    - 📊 Machine Learning (Multi-Agent Reinforcement Learning, Deep Reinforcement Learning),
+    - 🚋 Smart Transportation (Mixed Autonomy, Shared Mobility, Micromobility),
     - 🛣️ Multi-Vehicle Cooperative Decision Making
 - 👨‍💻 All of my projects are available at [www.hanye.com](https://github.com/leoPub?tab=repositories)
 - 📫 How to reach me
