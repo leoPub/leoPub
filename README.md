@@ -10,7 +10,7 @@
     - 🛣️ Multi-Vehicle Cooperative Decision Making
 - 👨‍💻 All of my projects are available at [www.hanye.com](https://github.com/leoPub?tab=repositories)
 - 📫 How to reach me
-    - E-mail: [hanye_leohancnjs [at] tongji [dot] edu [dot] cn](mailto:hanye_leohancnjs@tongji.edu.cn)
+    - E-mail: [hanye_leohancnjs@tongji.edu.cn](mailto:hanye_leohancnjs@tongji.edu.cn)
 
 ---
 
