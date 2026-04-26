@@ -2,7 +2,7 @@
 
 ### My name is Ye(烨) Han(韩). 
 
-- 🔭 I am a Ph.D. candidate in [Vehicle Engineering](https://auto.tongji.edu.cn/) at [Tongji University](https://auto.tongji.edu.cn/) under the supervision of [Prof. Lijun Zhang](https://auto.tongji.edu.cn/info/1180/6453.htm). I received BS in Vehicle Engineering from [Beijing Institute of Technology](https://me.bit.edu.cn/).
+- 🔭 I am a Ph.D. candidate in Vehicle Engineering at [Tongji University](https://auto.tongji.edu.cn/) under the supervision of [Prof. Lijun Zhang](https://auto.tongji.edu.cn/info/1180/6453.htm). I received BS in Vehicle Engineering from [Beijing Institute of Technology](https://me.bit.edu.cn/).
 
 - 🌱 My research interest is in three-folds.
     - 📊 Machine Learning (Contextual Reinforcement Learning, Generalization, Transfer Learning),
