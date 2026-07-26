@@ -7,9 +7,9 @@
 - 🌱 My research lies at the intersection of **Intelligent Vehicles**, **Smart Transportation**, and **Multi-Agent AI**, with a primary focus on **multi-vehicle cooperative decision-making** in stochastic mixed traffic environments.
 - 🚀 My long-term vision is to expand the scientific boundaries of multi-agent intelligent decision-making. Specifically, my research unfolds across three core dimensions:
 
-* 🛣️ **Domain (CAV Mechanisms):** Modeling complex interactions and game-theoretic mechanisms to fundamentally optimize microscopic traffic safety and macroscopic efficiency.
-* 🧠 **Methodology (Theory-Driven AI):** Innovating foundational AI algorithms (MARL, advanced planning) from the bottom up to provide highly reliable and generalizable solutions for autonomous driving.
-* ⚙️ **Practice (Industrial Deployment):** Bridging theory and reality by addressing social compatibility of heterogeneous traffic, autonomous driving stack integration, and hardware constraints.
+-- 🛣️ **Domain (CAV Mechanisms):** Modeling complex interactions and game-theoretic mechanisms to fundamentally optimize microscopic traffic safety and macroscopic efficiency.
+-- 🧠 **Methodology (Theory-Driven AI):** Innovating foundational AI algorithms (MARL, advanced planning) from the bottom up to provide highly reliable and generalizable solutions for autonomous driving.
+-- ⚙️ **Practice (Industrial Deployment):** Bridging theory and reality by addressing social compatibility of heterogeneous traffic, autonomous driving stack integration, and hardware constraints.
 - 👨‍💻 All of my projects are available at [github.com/leoPub](https://github.com/leoPub?tab=repositories)
 
 ---
