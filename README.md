@@ -2,7 +2,7 @@
 
 ### My name is Ye Han(韩烨). 
 
-- 🔭 I am a Ph.D. in Vehicle Engineering, supervised by [Prof. Lijun Zhang(张立军)](https://auto.tongji.edu.cn/info/1180/6453.htm) at [Tongji University](https://auto.tongji.edu.cn/). I received BEng in Vehicle Engineering from [Beijing Institute of Technology](https://me.bit.edu.cn/).
+- 🔭 I am a Ph.D. in Vehicle Engineering, supervised by [Prof. Lijun Zhang(张立军)](https://auto.tongji.edu.cn/info/1180/6453.htm) at [Tongji University](https://auto.tongji.edu.cn/). I received B. Eng. in Vehicle Engineering from [Beijing Institute of Technology](https://me.bit.edu.cn/).
 
 - 🌱 My research lies at the intersection of **Intelligent Vehicles**, **Smart Transportation**, and **Multi-Agent AI**, with a primary focus on **multi-vehicle cooperative decision-making** in stochastic mixed traffic environments.
 - 🚀 My long-term vision is to expand the scientific boundaries of multi-agent intelligent decision-making. Specifically, my research unfolds across three core dimensions:
