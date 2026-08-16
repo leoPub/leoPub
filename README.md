@@ -14,6 +14,7 @@
   - ⚙️ **Physical & Social Deployment (Practical Applicability):** Bridging algorithmic intelligence and real-world autonomy by accounting for **vehicle dynamics, imperfect information, heterogeneous human behavior, and cyber-physical constraints**, with the goal of enabling socially compatible and physically executable cooperative systems.
 
 - 👨‍💻 All of my projects are available at [github.com/leoPub](https://github.com/leoPub?tab=repositories)
+- 👨‍💻 Personal website [https://github.com/leoPub?tab=repositories](https://me.leopub.workers.dev/)
 
 ---
 
