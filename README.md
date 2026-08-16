@@ -4,14 +4,14 @@
 
 - 🔭 I am a Ph.D. in Vehicle Engineering, supervised by [Prof. Lijun Zhang(张立军)](https://auto.tongji.edu.cn/info/1180/6453.htm) at [Tongji University](https://auto.tongji.edu.cn/). I received B. Eng. in Vehicle Engineering from [Beijing Institute of Technology](https://me.bit.edu.cn/).
 
-- 🌱 My research lies at the intersection of **Intelligent Vehicles**, **Smart Transportation**, and **Multi-Agent AI**, with a primary focus on **multi-vehicle cooperative decision-making** in stochastic mixed traffic environments.
-- 🚀 My long-term vision is to expand the scientific boundaries of multi-agent intelligent decision-making. Specifically, my research unfolds across three core dimensions:
+- 🌱 My research lies at the intersection of **Intelligent Vehicles**, **Smart Transportation**, and **Multi-Agent AI**, focusing on **scalable multi-agent decision-making in stochastic mixed traffic**.
+- 🚀 My long-term goal is to advance **generalizable, scalable, and physically grounded multi-agent intelligence** for intelligent transportation. My research spans three dimensions:
 
-  - 🛣️ **Domain (CAV Mechanisms):** Modeling complex interactions and game-theoretic mechanisms to fundamentally optimize microscopic traffic safety and macroscopic efficiency.
+  - 🛣️ **Cooperative Decision-Making (Core Domain):** Modeling multi-vehicle interactions and game-theoretic mechanisms to develop cooperative decision-making frameworks that improve both microscopic safety and macroscopic traffic efficiency.
 
-  - 🧠 **Methodology (Theory-Driven AI):** Innovating foundational AI algorithms (MARL, advanced planning) from the bottom up to provide highly reliable and generalizable solutions for autonomous driving.
+  - 🧠 **Theory-Driven Multi-Agent AI (Core Methodology):** Developing scalable decision algorithms by integrating **multi-agent reinforcement learning, structured search, game theory, information theory, and advanced planning** to achieve reliable and computationally efficient multi-agent reasoning.
 
-  - ⚙️ **Practice (Industrial Deployment):** Bridging theory and reality by addressing social compatibility of heterogeneous traffic, autonomous driving stack integration, and hardware constraints.
+  - ⚙️ **Physical & Social Deployment (Practical Applicability):** Bridging algorithmic intelligence and real-world autonomy by accounting for **vehicle dynamics, imperfect information, heterogeneous human behavior, and cyber-physical constraints**, with the goal of enabling socially compatible and physically executable cooperative systems.
 
 - 👨‍💻 All of my projects are available at [github.com/leoPub](https://github.com/leoPub?tab=repositories)
 
